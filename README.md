@@ -10,3 +10,10 @@ Repositorio del proyecto de embebidos 2019-3, cuya temática principal es domót
 |Cuándo| |Desde 1995 se empezó la implementación de detectores de incendios.| | | | |
 |Por qué|Buscar autonomia en labores automatizables con el acceso tecnológico moderno, disminuyendo posible riesgo principalmente a las personas que se hallen dentro de estos espacios, además de aumentar la comodidad de los usuarios en cuanto a la accesibilidad del servicio.| | |Buscar una constante mejora en la seguridad contra accidentes y disminuir el componente del error humano, en lo que se refiere a los servicios básicos de un hogar o una industria; esto debido a la densidad de componentes que requieren de estos servicios.| | |
 |Cómo| | | |por medio de sensores y actuadores distribuidos en los diferentes puntos de suminitro de dichos servicios públicos dentro del lugar| | |
+
+## Variables a sensar 
+|Variables|tipo de variable|
+|--|--|
+|Agua|Análoga / Digital|
+|Gas|Análoga|
+|Energía|Análoga|
