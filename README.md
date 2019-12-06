@@ -1,5 +1,5 @@
 # SenConDom
-Repositorio del proyecto de embebidos 2019-3, cuya temática principal es domótica; a continuación se ve el planteamiento de la temática especifica del proyecto.
+Repositorio del proyecto de embebidos 2019-3, cuya temática principal es domótica; a continuación se ve el planteamiento de la temática específica del proyecto.
 
 ## Matriz de abstracción del proyecto
 |  |Es|Hizo|Puede|Hará|Podría|Haría|
@@ -17,3 +17,16 @@ Repositorio del proyecto de embebidos 2019-3, cuya temática principal es domót
 |Agua|Análoga / Digital|
 |Gas|Análoga|
 |Energía|Análoga|
+
+## Asignación de procesos
+|Procesos|Componente que lo realiza|
+|--|--|
+|Comunicación entre tecnologías| protocolos de comunicación física (UART y SPI)|
+|Sensores y actuadores|Microcontrolador|
+|Comunicación inhalambrica con sensores y actuadores|Microcontrolador|
+|Recopilación de datos|Microcontrolador|
+|Preprocesamiento de datos|FPGA|
+|Almacenamiento de datos fuera de internet|FPGA|
+|Procesamiento de datos|Raspberry Pi|
+|Comunicación con la base de datos|Raspberry Pi|
+|GUI||
