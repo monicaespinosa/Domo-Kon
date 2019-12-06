@@ -31,3 +31,32 @@ Repositorio del proyecto de embebidos 2019-3, cuya temática principal es domót
 |Comunicación con la base de datos|Raspberry Pi|
 |GUI|Cloud|
 |Capacidad de control desde el usuario|Aplicativo web|
+
+# Anteproyecto
+**Sistemas embebidos
+Universidad Nacional de Colombia**
+## Titulo
+
+## Planteamiento del problema
+
+## Antecedentes
+
+## Justificación
+
+## Objetivos
+### Objetivo General
+
+### Objetivos específicos
+
+## ALcances y límites
+### Alcances
+
+### Límites
+
+## Vigilancia tecnológica - (¿Quiénes son nuestros aliados?¿Competencia?)
+
+## Cronograma
+
+## Presupuesto
+
+##
