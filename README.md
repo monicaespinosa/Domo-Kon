@@ -29,4 +29,5 @@ Repositorio del proyecto de embebidos 2019-3, cuya temática principal es domót
 |Almacenamiento de datos fuera de internet|FPGA|
 |Procesamiento de datos|Raspberry Pi|
 |Comunicación con la base de datos|Raspberry Pi|
-|GUI||
+|GUI|Cloud|
+|Capacidad de control desde el usuario|Aplicativo web|
