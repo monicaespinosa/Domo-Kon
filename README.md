@@ -48,10 +48,23 @@ Universidad Nacional de Colombia**
 
 ### Objetivos específicos
 
-## ALcances y límites
+## Alcances y límites
 ### Alcances
+- Prototipo demostrativo funcional.
+- Sensado sobre el consumo del servicio.
+- Control sobre el estado del servicio (ON/OFF).
+- Comunicación vía WiFi.
+- Almacenamienton de datos en la nube.
+- Visualizacion representativa de datos desde una aplicación web/movil.
 
 ### Límites
+- Uso de sólo un sensor de cada tipo (sensor de flujo, sensor de tensión, sensor de gas y sensor de presencia), de manera que se pueda observar el funcionamiento del sistema.
+- Uso de sólo de un actuador por servicio (agua, luz y gas).
+- Conexión permanente a internet.
+- Dependencia a la estabilidad de la red electrica.
+- Sólo un sensor se comunicará vía WiFi.
+- La FPGA y el microcontrolador actuarán como esclavos de la Raspberry Pi.
+- Únicamente la Raspberry Pi manejará la comunicación con la nube.
 
 ## Vigilancia tecnológica - (¿Quiénes son nuestros aliados?¿Competencia?)
 
