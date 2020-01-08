@@ -57,6 +57,7 @@ Universidad Nacional de Colombia**
 - Almacenamienton de datos de sensado en la nube.
 - Visualizacion representativa de datos, de sensado y estado del servicio, desde una aplicación web/movil.
 - Almacenamineto local de datos preprocesados.
+- Capacidad de control por parte del usuario desde el aplicativo.
 
 ### Límites
 - Uso de sólo un sensor de cada tipo (sensor de flujo, sensor de tensión, sensor de gas y sensor de presencia), de manera que se pueda observar el funcionamiento del sistema.
@@ -67,6 +68,7 @@ Universidad Nacional de Colombia**
 - La FPGA y el microcontrolador actuarán como esclavos de la Raspberry Pi.
 - Únicamente la Raspberry Pi manejará la comunicación con la nube.
 - Sensado NRT (near real time) con una latencia de alrededor de 15 segundos.
+- La capacidad de control no es gradual.
 
 ## Vigilancia tecnológica 
 ### Aliados
