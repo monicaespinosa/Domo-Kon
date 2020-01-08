@@ -68,7 +68,10 @@ Universidad Nacional de Colombia**
 - Únicamente la Raspberry Pi manejará la comunicación con la nube.
 - Sensado NRT (near real time) con una latencia de alrededor de 15 segundos.
 
-## Vigilancia tecnológica - (¿Quiénes son nuestros aliados?¿Competencia?)
+## Vigilancia tecnológica 
+### Aliados
+
+### Competencia
 
 ## Cronograma
 
