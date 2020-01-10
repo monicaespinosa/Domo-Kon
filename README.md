@@ -51,10 +51,10 @@ Debido a la concurrencia de fugas  en diferentes predios, se hace urgente crear 
 Diseñar un sistema embebido usando IOT, que controle el estado del servicio por medio de sensores y actuadores, para solucionar en el menor tiempo posible la fuga existente.
 
 ### Objetivos específicos
--Sensar el flujo de cada uno de los servicios
--Controlar por medio de adactadores el estado de los servicios.
--Permitir la capacidad de control de manera remota acorde con el interes del usuario.
--Permitir la visualización del consumo del servicio para el usuario a través de gráficas.
+- Sensar el flujo de cada uno de los servicios
+- Controlar por medio de adactadores el estado de los servicios.
+- Permitir la capacidad de control de manera remota acorde con el interes del usuario.
+- Permitir la visualización del consumo del servicio para el usuario a través de gráficas.
 
 ## Alcances y límites
 ### Alcances
