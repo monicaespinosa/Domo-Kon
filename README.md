@@ -38,15 +38,23 @@ Universidad Nacional de Colombia**
 ## Titulo
 
 ## Planteamiento del problema
+A causa del deficiente manejo humano, deterioro o mal uso de los materiales en donde haya intalaciones de servicios públicos básicos (agua, energía y gas); se pueden presentar fugas que se ven reflejadas en gastos adicionales, marcados en las facturas. De no ser atendidas pueden generar un mayor impacto sea en la infraestructura física (con incendios o inundaciones), y/o en el componente humano (con intoxicaciones por gas propano o electrocuciones).
 
 ## Antecedentes
+Uso de tacos, alarmas, sensores
 
 ## Justificación
+Debido a la concurrencia de fugas  en diferentes predios, se hace urgente crear un sistema que detecte a mayor prontitud la aparición de la fuga, la alerta sobre la misma y su desviación dada por el bloqueo inmediato del servicio local o globalmente, para prevenir impactos negativos. 
 
 ## Objetivos
 ### Objetivo General
+Diseñar un sistema embebido usando IOT, que controle el estado del servicio por medio de sensores y actuadores, para solucionar en el menor tiempo posible la fuga existente.
 
 ### Objetivos específicos
+-Sensar el flujo de cada uno de los servicios
+-Controlar por medio de adactadores el estado de los servicios.
+-Permitir la capacidad de control de manera remota acorde con el interes del usuario.
+-Permitir la visualización del consumo del servicio para el usuario a través de gráficas.
 
 ## Alcances y límites
 ### Alcances
@@ -54,7 +62,7 @@ Universidad Nacional de Colombia**
 - Sensado sobre el consumo de un servicio.
 - Control sobre el estado de un servicio (ON/OFF).
 - Comunicación vía WiFi en 2,4 GHz.
-- Almacenamienton de datos de sensado en la nube.
+- Almacenamiento de datos de sensado en la nube.
 - Visualizacion representativa de datos, de sensado y estado del servicio, desde una aplicación web/movil.
 - Almacenamineto local de datos preprocesados.
 - Capacidad de control por parte del usuario desde el aplicativo.
