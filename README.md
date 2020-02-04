@@ -152,4 +152,5 @@ Se plantea el siguiente diagrama para un sistema embebido que cumpla con los obj
 
 ## Cambios hechos durante la ejecución
 
-- Originalmente se planteaba que el microcontrolador usara el protocolo de I2C para cómunicarce con la Raspberry pi, sin embargo al implementarse se noto que micropython no tiene la posibilidad de manejar comunicación I2C con multimaster y que siempre consideraba el microcontrolador como el Master, de forma que no se puede implementar para que el microcontrolador sea esclavo de la Raspberry pi. 
+- Originalmente se planteaba que el microcontrolador usara el protocolo de I2C para cómunicarce con la Raspberry pi, sin embargo al implementarse se noto que micropython no tiene la posibilidad de manejar comunicación I2C con multimaster y que siempre consideraba el microcontrolador como el Master, de forma que no se puede implementar para que el microcontrolador sea esclavo de la Raspberry pi.
+-
