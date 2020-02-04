@@ -38,12 +38,12 @@ Universidad Nacional de Colombia**
 ## Titulo
 
 ## Planteamiento del problema
-<div style="text-align: justify"> 
+<div class=text-justify> 
  A causa del deficiente manejo humano, deterioro o mal uso de los materiales en donde haya intalaciones de servicios públicos básicos (agua, energía y gas); se pueden presentar fugas que se ven reflejadas en gastos adicionales, marcados en las facturas. De no ser atendidas pueden generar un mayor impacto sea en la infraestructura física (con incendios o inundaciones), y/o en el componente humano (con intoxicaciones por gas propano o electrocuciones).
 </div>
 
 ## Antecedentes
-<div style="text-align: justify"> 
+<div class=text-justify> 
 Desde 1924 que salió la patente comercial para el disruptor a nombre de un grupo suizo de compañía de ingeniería eléctrica llamada Brown, Boveri & Cie, se ha implementado alguna forma de romper el flujo eléctrico en caso que existan fallas en el mismo; esta idea fue concebida originalmente por Thomas Edison  en 1879, sin embargo, en esa epoca las protecciones funcionaban por fusibles (1). La ventaja de los disruptores a diferencia de los fusibles es que estos no eran desechable despues de que se activaran las protecciónes, lo que las hacía más economicas a largo plazo, mientras que los fusibles a pesar que interrumpen el flujo electrico, estos no pueden reconstruirse despues de que han superado su límite de uso. La idea del disruptor se da más que por la necesidad de proteger a las personas de fallas en la estructura eléctrica, estops se implementarón para proteger maquinária de esas posibles fallas, de forma que la capacidad de trabajo de industrias y después el capital de las casas estuviera protegido; ésto se da principalmente porqué no se puede lograr la sensibilidad necesaria del circuito para percibir un cambio que afectara únicamente a las personas y no a la maquinaria que se hallaba conectada a la red electrica, de manera que en las protecciones contra fallas electricas existen 2 grupo grandes de disruptores los interruptores termomagnéticos, los suales se encargan de sentir las fallas de alta potencia y abrir dicho circuito; y los interruptores diferenciales los cuales rompen el flujo eléctrico cuando sienten cambios considerables de baja y media potencia en un determinado tiempo, estos son los encargados de evitar daños permanentes en las personas (2), aunque debido a su alto costo éstos sólo se impliementan en las zonas humedas.
 
 Según el periodico El Timepo para el año 2015 ocurrieron 869 incendios estructurales y presentan que "el 71% de los incendios estructurales es atendido en viviendas, seguido del 12% en edificaciones de uso industrial incluyendo bodegas y, en un tercer lugar, con un 7%, inmuebles de tipo comercial"; siendo las principales causas de incendios la saturacióin de tomas electricas en cuanto a conexiones, dejandolos como tendido eléctrico descubierto; otra principal causa son las llamas abiertas, fogones encendidos, velas/velones o el prolongado uso del calentador debido a que las personas dejan cosas acelerantes como ropa o trapos cerca de estas fuentes de calor y la radiación puede provocar un incendio; otro factor bastante frecuente de incendios son las planchas de cabello ya que generalmente se dejan sobre mueblería en madera o las dejan sobre las camas y como se mencionó la radiación constante puede generar estos incendios. Ésta noticia tambien dice que para los años 2015 y 2016  se tiene que "solo por esta causa se han presentado, entre el 2015 y el 2016, 3.761 incidentes y a esta estadística se le suman los causados por gas propano, que alcanzan los 326 para un total de 4.087 emergencias atendidas, una cifra nada despreciable"(3).
@@ -55,7 +55,7 @@ Múltiples sistemas de domótica implementan sensores de tensión, de corriente 
 </div>
 
 ## Justificación
-<div style="text-align: justify"> 
+<div class=text-justify> 
 Debido a la concurrencia de fugas  en diferentes predios, se hace urgente crear un sistema que detecte a mayor prontitud la aparición de la fuga, la alerta sobre la misma y su desviación dada por el bloqueo inmediato del servicio local o globalmente, para prevenir impactos negativos. 
  </div>
 
