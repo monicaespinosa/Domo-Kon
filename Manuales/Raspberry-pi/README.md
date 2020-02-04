@@ -1,9 +1,9 @@
 # Configuración del Ambiente
 
-En primer lugar quiero decir que no me gusta tener que configurar ambientes de
-desarrollo. Me parece canzón y pierdo mucho tiempo en bobadas. Siendo así el
-objetivo de esta guía no es solo poder configurar la **Raspberry Pi**, si no nunca
-volver a quemarse las pestañas para hacerlo. Así que empecemos.
+se ha demostrado que el conocimiento es sencillo, así que la aplicación de este 
+debería serlo aún más ¿no?, siendo así, para cumplir con esta idea, el
+objetivo de esta guía no es solo poder configurar la **Raspberry Pi**, además 
+que no sea algo ladrilludo hacerlo. Así que empecemos.
 
 ## Cómo se hace
 
