@@ -1,4 +1,4 @@
-# SenConDom
+# Domo-Kon
 Repositorio del proyecto de embebidos 2019-3, cuya temática principal es domótica; a continuación se ve el planteamiento de la temática específica del proyecto.
 
 ## Matriz de abstracción del proyecto
