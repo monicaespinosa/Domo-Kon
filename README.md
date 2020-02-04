@@ -144,7 +144,5 @@ Inversión total en materiales para el proyecto: $939.500
 # Solución
 Se plantea el siguiente diagrama para un sistema embebido que cumpla con los objetivos, alcances y limitaciones descritos en el Anteproyecto.
 
-graph TD;
-Cloud -- Base de datos;
-Base de datos--> app movil;
+
 
