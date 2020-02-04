@@ -32,6 +32,8 @@ Repositorio del proyecto de embebidos 2019-3, cuya temática principal es domót
 |GUI|Cloud|
 |Capacidad de control desde el usuario|Aplicativo web|
 
+---
+
 # Anteproyecto
 **Sistemas embebidos
 Universidad Nacional de Colombia**
@@ -107,6 +109,28 @@ Como competencia están las demás plataformas cerradas de domótica, tal como o
 |tarjeta de desarrollo ESP-32|$35.000|
 |Tarjeta de desarrollo ESP-8266|$25.000|
 
+|Sensores|Costo|
+|--|--|
+|Sensor de flujo YF-S201|$15.000|
+|Sensor de voltaje|$6.000|
+|Sensor de presencia QTR-1A|$8.000|
+|sensor de gas propano MQ5|$11.000|
+
+|Actuadores|Costo|
+|--|--|
+|Modulo de relés|$14.000|
+|Electrovalvula 12v DC 1/2 Pulgada|$25.000|
+|Bomba de agua 12v DC|$30.000|
+
+|Miscelaneos|Costo|
+|--|--|
+|Protoboard mediana|$6.000|
+|Jumpers|$10.000|
+|LEDs|$7.000|
+|Borneras|$5.000|
+|Acoples|$2.500|
+|Materiales para el prototipo físico|$50.000|
+
 ## Bibliografía
 - (1) Robert Friedel and Paul Israel, Edison's Electric Light: Biography of an Invention, Rutgers University Press, New Brunswick New Jersey USA,1986 ISBN 0-8135-1118-6 pp.65-66
 - (2) ""1920-1929 Stotz miniature circuit breaker and domestic appliances", ABB, 2006-01-09, accessed 15 December 2019".https://new.abb.com/de
@@ -114,4 +138,5 @@ Como competencia están las demás plataformas cerradas de domótica, tal como o
 - (4) Dirección Nacional de Bomberos de Colombia, Informe de gestion del 2017 https://bomberos.mininterior.gov.co/sites/default/files/informe_de_gestion_dnbc_2017.pdf
 - (5) Página oficial del departamiento de Seguridad Nacional de los Estados Unidos https://www.ready.gov/es/incendios-en-el-hogar
 
+---
 ##
