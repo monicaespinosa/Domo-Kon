@@ -145,5 +145,6 @@ Inversión total en materiales para el proyecto: $939.500
 Se plantea el siguiente diagrama para un sistema embebido que cumpla con los objetivos, alcances y limitaciones descritos en el Anteproyecto.
 
 ![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/Images/Flowchart.png)
+
 **Figura1**- Diagrama de flujo de la soluciòn.
 
