@@ -28,7 +28,7 @@ Actualmente ambas tarjetas cuentan con las siguientes funciones:
 ![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/MicroControlador/Images/ESP32pinout.png)
 **Figura 1**-Dispocisión de pines de la tarjeta de desarrollo ESP32.
 
-![Dispocisión de pines d la tarjeta de desarrollo ESP8266](ESP8266pinout.png)
+![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/MicroControlador/Images/ESP8266pinout.png)
 **Figura 1**-Dispocisión de pines de la tarjeta de desarrollo ESP8266.
 
 ## Características
