@@ -68,7 +68,7 @@ Diseñar un sistema embebido usando IOT, que controle el estado del servicio por
 
 ### Objetivos específicos
 - Sensar el flujo de cada uno de los servicios
-- Controlar por medio de adactadores el estado de los servicios.
+- Controlar, por medio de actuadores, el estado de los servicios.
 - Permitir la capacidad de control de manera remota acorde con el interes del usuario.
 - Permitir la visualización del consumo del servicio para el usuario a través de gráficas.
 
@@ -127,6 +127,7 @@ Como competencia están las demás plataformas cerradas de domótica, tal como o
 |Protoboard mediana|$6.000|
 |Jumpers|$10.000|
 |LEDs|$7.000|
+|Pantalla oLED|$16.500|
 |Borneras|$5.000|
 |Acoples|$2.500|
 |Materiales para el prototipo físico|$50.000|
@@ -140,4 +141,10 @@ Inversión total en materiales para el proyecto: $939.500
 - (5) Página oficial del departamiento de Seguridad Nacional de los Estados Unidos https://www.ready.gov/es/incendios-en-el-hogar
 
 ---
-##
+# Solución
+Se plantea el siguiente diagrama para un sistema embebido que cumpla con los objetivos, alcances y limitaciones descritos en el Anteproyecto.
+
+graph TD;
+Cloud -- Base de datos;
+Base de datos--> app movil;
+
