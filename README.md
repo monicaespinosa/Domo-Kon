@@ -95,7 +95,7 @@ Diseñar un sistema embebido usando IOT, que controle el estado del servicio por
 ### Aliados
 Como aliados estan, además de las agencias inmobiliarias y las constructoras, además de ser los cliente primarios, éstos dispondrían del flujo constante de clientes terciarios; las plataformas que permiten la integración de features y aplicaciones que nosean propietarias de esas plataformas, tal como google y amazon.
 ### Competencia
-
+Como competencia están las demás plataformas cerradas de domótica, tal como ozom la cual ya tiene una forma comercial a través de los clientes de home center y plataformas incipientes en la domótica, tal como Xiaomi que buscan expandir su mercado, sin embargo no permiten la implementación de aplicaciones no propietarias.
 ## Cronograma
 
 ## Presupuesto
