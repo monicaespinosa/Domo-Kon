@@ -131,6 +131,7 @@ Como competencia están las demás plataformas cerradas de domótica, tal como o
 |Acoples|$2.500|
 |Materiales para el prototipo físico|$50.000|
 
+Inversión total en materiales para el proyecto: $939.500
 ## Bibliografía
 - (1) Robert Friedel and Paul Israel, Edison's Electric Light: Biography of an Invention, Rutgers University Press, New Brunswick New Jersey USA,1986 ISBN 0-8135-1118-6 pp.65-66
 - (2) ""1920-1929 Stotz miniature circuit breaker and domestic appliances", ABB, 2006-01-09, accessed 15 December 2019".https://new.abb.com/de
