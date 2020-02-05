@@ -29,7 +29,7 @@ Actualmente ambas tarjetas cuentan con las siguientes funciones:
 **Figura 1**-Dispocisión de pines de la tarjeta de desarrollo ESP32.
 
 ![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/MicroControlador/Images/ESP8266pinout.png)
-**Figura 1**-Dispocisión de pines de la tarjeta de desarrollo ESP8266.
+**Figura 2**-Dispocisión de pines de la tarjeta de desarrollo ESP8266.
 
 ## Características
 
@@ -51,8 +51,8 @@ Actualmente ambas tarjetas cuentan con las siguientes funciones:
 |SPI|2|4|
 |GPIO(utilizables)|32|11|
 |PWM|8|16|
-|ADC|1(10 bit)|18(12 bit)|
-|ADC con preamplificador|No|Sí(Bajo Ruido) Hatas 60dB|
+|ADC|1 (10 bit)|18 (12 bit)|
+|ADC con preamplificador|No|Sí (Bajo Ruido) Hatas 60dB|
 |DAC|No|2 (8 bit)|
 |1-Wire|Implementado por software|Implementado por software|
 |I2S|1|2|
