@@ -6,7 +6,7 @@
 
 2. Una vez allí, se encontrarán grandes cantidades de archivos posibles para descarga. Sin embargo, tan pronto como se identifique el tipo de placa a usar, se debe bajar el archivo correspondiente al firmware que se cargará a la placa y permitirá programar Micropython dentro de él.
 
- ![]()
+ ![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/Manuales/MicroControlador/Images/Link_Descarga.png)
  **Figura 1**- Archivo de descarga para la placa ESP8266.
 
 Por recomendación se sugiere bajar la última versión estable que se disponga para la placa. A la fecha de realización la última versión estable es la v1.12, sin embargo todos las placas usadas están cargadas con la versión v.1.11.
@@ -19,11 +19,11 @@ Por recomendación se sugiere bajar la última versión estable que se disponga 
 
 1.	Una vez se tienen todos los elementos: uPyCraft, los archivos .bin correspondientes a  la placa y versión deseada y la placa con su respectiva conexión vía USB al computador, se procede a abrir el programa y abrir la pestaña Tools seguido de la opción BurnFirmware.
 
-![]()
+![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/Manuales/MicroControlador/Images/Firmware_upload.png)
 
 2. Dentro de la ventana abierta se seleccionan las opciones correspondientes a la placa de desarrollo que se requiere y se indica el firmware que se va a cargar en la placa.
 
-![]()
+![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/Manuales/MicroControlador/Images/Firmware_update.png)
 
 3.	Con el botón Choose se escoge el firmware que se va a subir, indicando la ruta donde este archivo se encuentra.
 
@@ -33,13 +33,13 @@ Por recomendación se sugiere bajar la última versión estable que se disponga 
 
 6.	Se puede usar el archivo `blink.py` para probar que la conexión quedó bien hecha. Sólo se debe abrir con el programa uPyCraft y dar click en el botón _Play_. Una aclaración: verifica que esté conectada la tarjeta y exista una comunicación adecuada.
 
-![]()
+![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/Manuales/MicroControlador/Images/blink.png)
  
 ## Configurando las diferentes Funciones
 
 Para empezar a configurar cada uno de los pines, lo primero que se debe hacer es conectar el microcontrolador y verificar que existe comunicación entre él y la IDE.
 
-![]()
+![alt text](https://github.com/monicaespinosa/Domo-Kon/blob/master/Manuales/MicroControlador/Images/Code_upload.png)
 
 Ahora sí, ¡estamos listos!
 
