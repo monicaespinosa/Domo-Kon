@@ -1,0 +1,22 @@
+version: "3.4"
+services:
+  redis:
+    container_name: pubsub
+    image: redis
+    expose:
+      - 6379
+    ports:
+      - "6379:6379"
+  
+  db-writer:
+    build: ./dbWriter
+    environment:
+      - REDIS_HOST=pubsub
+    depends_on:
+      - redis
+  
+  serial-reader:
+    build: ./serialReader
+    privileged: true
+    depends_on:
+      - redis
